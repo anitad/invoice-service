@@ -1,0 +1,10 @@
+# Ignore IntelliJ configurations
+*.properties
+keystore.p12
+logs/
+.idea/*
+*.class
+.DS_Store
+target/
+*.iml
+*.json
