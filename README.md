@@ -35,4 +35,4 @@ Get analytics for products 	`GET /v1/anaytics/products`
 - Send email for an invoice `PUT /v1/emails?invoiceId={invId}`
 
 ## High level design
-![Architecture](/images/architecture.png)
+![Architecture](/images/service-design.png)
