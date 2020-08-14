@@ -18,7 +18,7 @@
 
 ## DB Schema
 
-![DB schema](/images/db-schema.png)
+![DB schema](/images/dbschema.png)
 
 ## API Spec
 ### Invoice
